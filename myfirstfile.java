@@ -10,4 +10,11 @@
 "7th commit deleted feature devops branch "
 >>>>>>> 638db0d73407be8b959822e7286de070a6d7de11
 
+<<<<<<< Updated upstream
 manager work completed.
+=======
+1st line
+2nd line
+3rd line
+4th line
+>>>>>>> Stashed changes
